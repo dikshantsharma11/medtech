@@ -91,7 +91,7 @@ a.nav-link{
 }
 
 #home .filter{
-	background: url('https://media.discordapp.net/attachments/985025755895439400/985719186116448296/unknown.png?width=1350&height=683s') no-repeat;
+	background: url('https://media.discordapp.net/attachments/985025755895439400/985719186116448296/unknown.png?width=1350&height=683') no-repeat;
 	background-size: cover;
 	background-position:center;
     position: absolute;
